@@ -1,0 +1,3 @@
+ChromeDriver=C:\\Selenium\\Webdrivers\\ChromeDriver.exe
+URL=https://www.phptravels.net/login
+ExcelPath=
